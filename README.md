@@ -1,1 +1,1 @@
-# Recency,Frequency, Monetary value.
+# Recency,Frequency & Monetary value.
